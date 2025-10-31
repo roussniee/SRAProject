@@ -24,7 +24,7 @@ I redesigned and implemented a modern solution to replace a legacy Microsoft Wor
 
 - Met with stakeholders to identify pain points and define new form layout
 - Built a PowerApp to dynamically populate employee info from AD/Excel
-- Created flow to automatically distribute requests to approvers
+- Created a flow to automatically distribute requests to approvers
 - Connected PowerApp to a SharePoint list for request centralization
 
 <h2>✅ Outcome</h2>
@@ -34,37 +34,37 @@ I redesigned and implemented a modern solution to replace a legacy Microsoft Wor
 - Automated workflows saved time and improved accountability
 
 <h2>Program walk-through/Visual aids:</h2>
-<i><b>Still building...</b></i>
-<!--
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<i><b>Company and personal details omitted</b></i>
+<p align="left">
+Home Screen Version 1: <br/>
+<img src="https://imgur.com/2EiKrq3.png" height="80%" width="80%" alt="Software Request App"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Home Screen Version 2:  <br/>
+<img src="https://imgur.com/IpWIN7L.png" height="80%" width="80%" alt="Software Request App"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Employee details page with Active Directory autofill enabled: <br/>
+<img src="https://imgur.com/aS4yaYu.png" height="80%" width="80%" alt="Software Request App"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Software Submission Screen Version 1:  <br/>
+<img src="https://imgur.com/I7v8gjM.png" height="80%" width="80%" alt="Software Request App"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Software Submission Screen Version 2:  <br/>
+<img src="https://imgur.com/FPxhJ3L.png" height="80%" width="80%" alt="Software Request App"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Power Automate Flow Runs After Submission and Enables Approval Process:  <br/>
+<img src="https://imgur.com/2JIdZgt.png" height="40%" width="40%" alt="Software Request App Flow"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+PDF Example Form Output:  <br/>
+<img src="https://imgur.com/xLODSxK.png" height="50%" width="50%" alt="Software Request App PDF"/>
+<br />
 </p>
---!>
+
 
 <h3>Confidentiality Note</h3>
 <i>All employee names and request details are masked or replaced with sample data.</i>
